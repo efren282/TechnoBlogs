@@ -1,0 +1,14 @@
+body{
+    color: orangered;
+    background-color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+}
